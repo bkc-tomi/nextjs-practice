@@ -11,7 +11,7 @@
         クライアント側のリクエストによって取ってくるデータなどが変わる場合にこちらでリクエスト毎にレンダリングする。
     #### Client-side Rendering
         ユーザーページなどユーザーによってページが異なり、SEO対策の必要もない場合はJavaScirptを使用したクライアントサイドでのレンダリングでも良い。SWRというreact hooksの使用を推奨している。
-    * Dynamic Routes
+    * Dynamic Routes - done
     * API Routes
     * Deploying Your Next.js App
 
