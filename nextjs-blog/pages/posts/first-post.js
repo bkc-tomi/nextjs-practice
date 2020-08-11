@@ -1,3 +1,5 @@
+// DynamicRoutesからは使わない。
+
 import Head   from "next/head";
 import Layout from "../../components/layout";
 
